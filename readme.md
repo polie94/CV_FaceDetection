@@ -5,4 +5,4 @@ The main goal is to prepare a tool for detection of faces in pictures, classific
 This project answer the following research questions:
 
 1. What is the best model performance for diffrent network architectures for the emotion classification task? Which model achieves the best results?
-2. 
+2. testsstst
