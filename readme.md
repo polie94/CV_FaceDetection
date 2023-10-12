@@ -17,7 +17,7 @@ In the repository we have four folders:
 
 This project answers the following research questions:
 
-Q1. What is the best model performance for different network architectures for the emotion classification task - FCN, CNN or model-based on a pretrained architecture? Which model achieves the best results?
+Q1. What is the best model performance for different network architectures for the emotion classification task - FCN, CNN or model-based on a pretrained architecture? Which model achieves the best results?</br>
 Q2. Has the number of annotated images an influence on the performance of the object detection algorithm in terms of MAP​?
 Q3. Can style transfer help to quickly capture the emotions of a group of people?
 
