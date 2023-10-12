@@ -3,7 +3,7 @@ This is the project for the module Computer Vision prepared by Paulina Zal, Stef
 The main goal is to prepare a tool for the detection of faces in pictures, classification of emotions on the detected faces and lastly painting the face based on the emotion. Each emotion has its specific style.
 
 The data was downloaded from: 
-faces ( only train and validation folders were uploaded to colab) : https://www.kaggle.com/datasets/sbaghbidi/human-faces-object-detection
+faces ( only train and validation folders were uploaded to colab) : https://www.kaggle.com/datasets/sbaghbidi/human-faces-object-detection <br>
 emotions: https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
 
 The whole repository should be downloaded and all folders loaded to google drive. The Notebooks are prepared for google colab due to memory restrictions on local machines and needs for GPU assistance.
@@ -17,9 +17,9 @@ In the repository we have four folders:
 
 This project answers the following research questions:
 
-Q1. What is the best model performance for different network architectures for the emotion classification task - FCN, CNN or model-based on a pretrained architecture? Which model achieves the best results?</br>
-Q2. Has the number of annotated images an influence on the performance of the object detection algorithm in terms of MAP​?
-Q3. Can style transfer help to quickly capture the emotions of a group of people?
+Q1. What is the best model performance for different network architectures for the emotion classification task - FCN, CNN or model-based on a pretrained architecture? Which model achieves the best results?<br>
+Q2. Has the number of annotated images an influence on the performance of the object detection algorithm in terms of MAP​? <br>
+Q3. Can style transfer help to quickly capture the emotions of a group of people? <br>
 
 
 For answering the questions we prepared some notebooks (in the folder code):
