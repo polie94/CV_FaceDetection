@@ -2,7 +2,7 @@ This is the project for the module Computer Vision prepared by Paulina Zal, Stef
 
 The main goal is to prepare a tool for the detection of faces in pictures, classification of emotions on the detected faces and lastly painting the face based on the emotion. Each emotion has its specific style.
 
-The data was downloaded from: 
+The data was downloaded from: <br>
 faces ( only train and validation folders were uploaded to colab) : https://www.kaggle.com/datasets/sbaghbidi/human-faces-object-detection <br>
 emotions: https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
 
