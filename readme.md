@@ -24,21 +24,21 @@ Q3. Can style transfer help to quickly capture the emotions of a group of people
 
 For answering the questions we prepared some notebooks (in the folder code):
 
-Q1: 
-Emotion Detection - Simple Model.ipynb - Unsing only Dense Layers
-Emotion Detection_CNN.ipynb - Using Convolutional Neural Network
-emotion_detection_VGG16.ipynb - Using pretrained models
+Q1: <br>
+Emotion Detection - Simple Model.ipynb - Unsing only Dense Layers <br>
+Emotion Detection_CNN.ipynb - Using Convolutional Neural Network <br>
+emotion_detection_VGG16.ipynb - Using pretrained models <br>
 
-Q2:
-YOLO_60_pics.ipynb - Fine-tuning YOLOv8 for face detection (only one class learned: faces) on 60 annotated pictures
-YOLO_350_pics.ipynb - Fine-tuning YOLOv8 for face detection (only one class learned: faces) on 350 annotated pictures + augmentation( overall 800 pictures)
-VGG16 Face Detection (not good).ipynb - experiment with fine-tuning of VGG16 for face detection. The performance is really bad.  
-  helping scripts:
-  Resize_images_60_faces.ipynb - take 60 pictures (manually chosen from bigger data set) and resize to 512 x 512 px and then save on google drive
-  Resize_images_350_faces.ipynb - take 350 pictures (manually chosen from bigger data set) and resize to 512 x 512 px and then save on google drive
+Q2:<br>
+YOLO_60_pics.ipynb - Fine-tuning YOLOv8 for face detection (only one class learned: faces) on 60 annotated pictures  <br>
+YOLO_350_pics.ipynb - Fine-tuning YOLOv8 for face detection (only one class learned: faces) on 350 annotated pictures + augmentation( overall  800 pictures) <br>
+VGG16 Face Detection (not good).ipynb - experiment with fine-tuning of VGG16 for face detection. The performance is really bad.  <br>
+  helping scripts: <br>
+  Resize_images_60_faces.ipynb - take 60 pictures (manually chosen from bigger data set) and resize to 512 x 512 px and then save on google drive<br>
+  Resize_images_350_faces.ipynb - take 350 pictures (manually chosen from bigger data set) and resize to 512 x 512 px and then save on google drive<br>
 
-Q3:
-style_transfer_putting_all_together.ipynb - final script combining creating a texture in RoIs specified by the face detection algorithm. The texture depends on emotion detected in RoIs.
+Q3:<br>
+style_transfer_putting_all_together.ipynb - final script combining creating a texture in RoIs specified by the face detection algorithm. The texture depends on emotion detected in RoIs.<br>
 
 
                     
